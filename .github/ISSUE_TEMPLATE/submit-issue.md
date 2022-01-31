@@ -1,6 +1,6 @@
 ---
 name: Submit Issue
-about: Use this template to send a request to join github.com/unblock-discord
+about: Click on this to send a request to join github.com/unblock-discord
 title: Join Organization
 labels: ''
 assignees: ''
